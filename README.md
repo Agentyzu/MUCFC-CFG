@@ -1,5 +1,5 @@
 # MUCFC-CFG Algorithm
-This is the code for the paper "A Task-Driven Multi-UAV Coalition Formation Mechanism" submitted to AAMAS 2024.
+This is the code for the paper "A Task-Driven Multi-UAV Coalition Formation Mechanism" accepted to AAMAS 2024.
 
 # Introduction
 The MUCFC-CFG algorithm is proposed based on coalition formation game, and it can achieve stable coalition division through multiple iterations. In the multi-UAV coalition formation problem, we solve the problem driven by the task by the MUCFC-CFG algorithm.
